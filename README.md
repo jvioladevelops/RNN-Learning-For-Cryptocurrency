@@ -1,1 +1,1 @@
-# Reinforcement-Learning-For-Cryptocurrency
+# RNN-Learning-For-Cryptocurrency
